@@ -12,6 +12,8 @@ import java.util.List;
 
 import static org.testng.Assert.*;
 public class SpartanTestWithJsonPath {
+
+    //spartan Json Path
     @BeforeClass
     public static void setUpClass() {
         baseURI = "http://54.173.198.79:8000";
@@ -61,5 +63,7 @@ assertEquals(response.statusCode(),200);
         assertEquals(name,"Nona");
         assertEquals(gender, "Female");
         assertEquals(phone,7959094216l);
+
+
     }
 }
