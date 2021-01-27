@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caf878fd-3da3-4e17-a2c7-a8de31170f8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTestWithJsonPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTestWithJsonPath.java" afterDir="false" />
+    <list default="true" id="caf878fd-3da3-4e17-a2c7-a8de31170f8c" name="Default Changelist" comment="Spartan Json Path added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GItPractice 2" beforeDir="false" afterPath="$PROJECT_DIR$/../GItPractice 2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +148,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611131974378</updated>
-      <workItem from="1611131976688" duration="24194000" />
+      <workItem from="1611131976688" duration="24410000" />
+      <workItem from="1611765110917" duration="27000" />
+      <workItem from="1611779782000" duration="346000" />
     </task>
     <task id="LOCAL-00001" summary="Spartan Hamcrest added">
       <created>1611724088488</created>
