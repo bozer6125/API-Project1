@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caf878fd-3da3-4e17-a2c7-a8de31170f8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApiShorts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTestWithHamcrest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTestWithJsonPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTestWithPathMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTestWithQueryParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ApiTests/SpartanTestsWithPathParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApiTests/SpartanTestWithHamcrest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApiTests/SpartanTestWithJsonPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApiTests/SpartanTestWithPathMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApiTests/SpartanTestWithQueryParams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApiTests/SpartanTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ApiTests/SpartanTestsWithPathParameters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GItPractice 2" beforeDir="false" afterPath="$PROJECT_DIR$/../GItPractice 2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nKHgBMnlBR89ySd38CROe1dZjE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.SpartanTestWithHamcrest.test2">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithHamcrest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiShorts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApiTests" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests.SpartanTestWithHamcrest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithHamcrest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiShorts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApiTests" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests.SpartanTestWithHamcrest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithJsonPath.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiShorts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApiTests" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests.SpartanTestWithJsonPath" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithPathMethod.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiShorts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApiTests" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests.SpartanTestWithPathMethod" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTestWithPathMethod.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ApiShorts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ApiTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ApiTests" />
+      <option name="MAIN_CLASS_NAME" value="ApiTests.SpartanTestWithPathMethod" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpartanTestWithHamcrest.test2" />
+        <item itemvalue="JUnit.SpartanTestWithHamcrest.test1" />
+        <item itemvalue="JUnit.SpartanTestWithJsonPath.test1" />
+        <item itemvalue="JUnit.SpartanTestWithPathMethod.test1" />
+        <item itemvalue="JUnit.SpartanTestWithPathMethod.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caf878fd-3da3-4e17-a2c7-a8de31170f8c" name="Default Changelist" comment="" />
+      <created>1611131974378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611131974378</updated>
+      <workItem from="1611131976688" duration="23565000" />
+    </task>
+    <task id="LOCAL-00001" summary="Spartan Hamcrest added">
+      <created>1611724088488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611724088489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spartan Hamcrest added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spartan Hamcrest added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/ApiTests/SpartanTests.java</url>
+          <line>13</line>
+          <properties class="ApiTests.SpartanTests" method="viewSpartanTest1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
